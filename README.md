@@ -12,3 +12,14 @@ Welcome to my Verilog learning repository! This repo contains basic to intermedi
 - `basys3_bitstreams/`: Contains `.bit` files that can be uploaded to Basys 3.
 - `Vivado_Installation_Guide.md`: Step-by-step Vivado setup instructions.
 - `docs/`: Useful learning resources and notes.
+
+
+## 📁 Resources follow:
+Digital Design by Morris Mano
+Verilog by Samir Palnitkar
+Xilinx Vivado Getting Started: https://www.xilinx.com/support/university/vivado.html
+Nandland Verilog Tutorials: https://www.nandland.com
+EDA Playground: https://www.edaplayground.com
+
+TO KNOW ABOUT BASYS 3 FOLLOW LINK:
+https://digilent.com/reference/programmable-logic/basys-3/reference-manual?redirect=1
