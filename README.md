@@ -16,9 +16,13 @@ Welcome to my Verilog learning repository! This repo contains basic to intermedi
 
 ## 📁 Resources follow:
 Digital Design by Morris Mano
+
 Verilog by Samir Palnitkar
+
 Xilinx Vivado Getting Started: https://www.xilinx.com/support/university/vivado.html
+
 Nandland Verilog Tutorials: https://www.nandland.com
+
 EDA Playground: https://www.edaplayground.com
 
 TO KNOW ABOUT BASYS 3 FOLLOW LINK:
