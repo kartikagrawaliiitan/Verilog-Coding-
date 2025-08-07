@@ -26,7 +26,7 @@ module fulladdar(
     );
     always@(*)
     begin
-    sum = a^b;
+    sum = a^b^c;
     carry = (a&b)|(b&c)|(c&a);
     end
 endmodule
