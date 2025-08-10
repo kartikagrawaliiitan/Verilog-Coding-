@@ -27,3 +27,5 @@ EDA Playground: https://www.edaplayground.com
 
 TO KNOW ABOUT BASYS 3 FOLLOW LINK:
 https://digilent.com/reference/programmable-logic/basys-3/reference-manual?redirect=1
+
+
