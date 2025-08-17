@@ -22,7 +22,7 @@
 
     module representation(
     input s3, s2, s1, s0,
-    output a, b, c, d, e, f, g, en
+        output a, b, c, d, e, f, g, [3:0]en
 );
 reg [6:0] tmp;
   assign en = 4'b1110;  // 0 - glow , 1 - not glow
