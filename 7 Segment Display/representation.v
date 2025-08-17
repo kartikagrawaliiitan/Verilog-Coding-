@@ -25,7 +25,7 @@
     output a, b, c, d, e, f, g, en
 );
 reg [6:0] tmp;
-  assign en = 1'b0;
+  assign en = 4'b1110;  // 0 - glow , 1 - not glow
 always @(*) begin
 
     // Handle output 'a'
@@ -53,6 +53,7 @@ end
 assign {a, b, c, d, e, f,g} = tmp;
 endmodule
 
+//   Alt method 
 //module representation(input s3,s2,s1,s0,
 //output a,b,c,d,e,f,g);
 //assign
